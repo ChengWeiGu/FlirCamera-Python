@@ -3,8 +3,8 @@ Install the spinnaker SDK at first:
 https://www.flir.asia/products/spinnaker-sdk/  
 
 ## Environment:     
-1.Python3.6.9  
-2.spinnaker-python1.29.0.5  
+1.Python==3.6.9  
+2.spinnaker-python==1.29.0.5  
 
 ## Scripts:
 Please use the following command to run the script:  
